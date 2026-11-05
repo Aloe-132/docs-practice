@@ -46,13 +46,3 @@ Ask a classmate to read [after.md](after.md) without an explanation. Ask them to
 ## AI disclosure
 
 I used ChatGPT/Codex to help produce my Chapter 2 guide and this revision package. For this homework, it selected an excerpt, drafted the six-rule style guide, revised the instructions, recorded the changes, checked the existing repository through connected GitHub tools, and compared the workflow with GitHub Docs. The assistant also uploaded these files. AI review does not replace an independent browser test or genuine peer feedback; those activities are marked as pending above.
-
-## Before submission
-
-- [x] Preserve a 150–250-word source excerpt.
-- [x] Provide six style rules, each with a before/after example.
-- [x] Provide a revised guide.
-- [x] Explain at least six changes and link them to the rules.
-- [x] Include explicit result checks, verification evidence, and an AI disclosure.
-- [ ] Add a genuine peer comment and the resulting revision.
-- [ ] Complete and record an independent browser test.
