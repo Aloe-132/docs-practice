@@ -51,8 +51,3 @@ Describe observable evidence of success, with specific items for the reader to i
 - **Before:** “The repository is successfully created if its homepage displays the repository name, a ‘Private’ label, and a README.md file with its content.”
 - **After:** A checklist names the owner and repository name, the **Private** label, and `README.md` with its displayed content.
 - **Why:** Separate checks make success easier to verify and include ownership.
-
-## References
-
-- Course slides, *03standards-writing-style.pdf*, pages 18 and 32–34.
-- [GitHub Docs — Quickstart for repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories), checked on 5 November 2026.
